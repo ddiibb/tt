@@ -1,13 +1,21 @@
 {
     "urls": [
         {
+            "url": "https://yydsys.top/duo/m.json",
+            "name": "🔔点击选择下方线路1"
+        },
+        {
             "url": "https://nobug.eu.org/duo/m.json",
-            "name": "🔔点击选择下方线路"
+            "name": "🔔点击选择下方线路2"
+        },
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🏡应用多多家庭版1"
         },
         {
             "url": "https://nobug.eu.org/duo/v.json",
-            "name": "🏡应用多多家庭版"
-        },
+            "name": "🏡应用多多家庭版2"
+        }, 
         {
             "url": "https://肥猫.love",
             "name": "🚀肥猫线路"
